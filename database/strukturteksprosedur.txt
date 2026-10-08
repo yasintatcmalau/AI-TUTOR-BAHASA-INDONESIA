@@ -1,0 +1,43 @@
+STRUKTUR TEKS PROSEDUR
+
+Struktur teks prosedur merupakan susunan bagian yang terdapat dalam teks prosedur dan berfungsi untuk membuat informasi tersusun secara teratur, runtut, dan mudah diikuti. Struktur tersebut membantu pembaca memahami suatu kegiatan mulai dari tujuan yang hendak dicapai, hal-hal yang perlu dipersiapkan, hingga tahapan yang harus dilakukan. Teks prosedur pada dasarnya mengutamakan urutan proses, sehingga setiap bagian harus saling berhubungan. Jika salah satu bagian tidak disampaikan dengan jelas, pembaca dapat mengalami kesulitan dalam memahami atau mengikuti prosedur yang diberikan. Secara umum, struktur teks prosedur terdiri atas tujuan, bahan dan alat, serta langkah-langkah. Pada jenis teks prosedur tertentu, terdapat pula penutup sebagai bagian akhir.
+
+1. Tujuan
+
+Tujuan merupakan bagian yang biasanya terdapat pada awal teks prosedur. Bagian ini menjelaskan kegiatan yang akan dilakukan, sesuatu yang akan dibuat, atau hasil yang ingin dicapai oleh pembaca setelah mengikuti prosedur. Tujuan berfungsi memberikan gambaran awal sehingga pembaca mengetahui isi dan arah teks sebelum membaca langkah-langkah secara lebih rinci. Dengan adanya tujuan, pembaca dapat memahami mengapa prosedur tersebut perlu dilakukan dan apa hasil yang diharapkan.
+
+Tujuan dalam teks prosedur dapat berupa kegiatan sederhana maupun kegiatan yang membutuhkan beberapa tahapan. Misalnya, teks berjudul “Cara Membuat Jus Alpukat” memiliki tujuan untuk memberikan petunjuk kepada pembaca mengenai cara membuat jus alpukat. Begitu juga dengan teks “Cara Menanam Bunga di Dalam Pot” yang bertujuan memberikan petunjuk tentang proses menanam bunga menggunakan pot. Tujuan tidak perlu ditulis terlalu panjang, tetapi harus jelas, spesifik, dan sesuai dengan langkah-langkah yang akan dijelaskan.
+
+Dalam sebuah teks prosedur, tujuan juga menjadi dasar bagi bagian-bagian berikutnya. Bahan dan alat yang dicantumkan harus sesuai dengan tujuan, sedangkan langkah-langkah harus benar-benar mengarahkan pembaca untuk mencapai tujuan tersebut. Oleh karena itu, antara tujuan dan langkah-langkah tidak boleh terdapat ketidaksesuaian. Jika tujuan teks adalah membuat jus mangga, langkah-langkah yang diberikan harus berkaitan dengan proses pembuatan jus mangga, bukan kegiatan lain.
+
+
+2. Bahan dan Alat
+
+Bahan dan alat merupakan bagian yang berisi segala sesuatu yang diperlukan untuk melaksanakan suatu prosedur. Bagian ini biasanya ditemukan pada teks prosedur yang menjelaskan cara membuat atau menghasilkan sesuatu. Tujuannya adalah membantu pembaca mengetahui apa saja yang harus disiapkan sebelum memulai kegiatan. Dengan mengetahui bahan dan alat terlebih dahulu, pembaca dapat mempersiapkan kebutuhan sehingga proses dapat dilakukan dengan lebih mudah dan teratur.
+
+Bahan merupakan sesuatu yang digunakan dalam proses pembuatan dan biasanya mengalami perubahan setelah proses selesai. Misalnya, dalam membuat jus mangga, mangga, air, gula, dan es batu merupakan bahan karena semuanya digunakan dalam menghasilkan minuman. Sementara itu, alat merupakan benda yang digunakan untuk membantu melakukan suatu pekerjaan, tetapi tidak menjadi bagian dari hasil akhir. Blender, pisau, sendok, dan gelas merupakan contoh alat yang digunakan dalam proses tersebut.
+
+Penulisan bahan dan alat harus dilakukan secara jelas dan sesuai kebutuhan. Jika diperlukan ukuran atau jumlah tertentu, sebaiknya dicantumkan agar pembaca tidak salah dalam mempersiapkannya. Misalnya, “2 buah mangga”, “200 ml air”, atau “2 sendok makan gula” lebih jelas dibandingkan hanya menuliskan “mangga”, “air”, dan “gula”. Dengan demikian, pembaca dapat mengetahui jumlah bahan yang diperlukan sebelum mengikuti langkah-langkah.
+
+Namun, tidak semua teks prosedur memerlukan bagian bahan dan alat. Teks prosedur yang menjelaskan cara melakukan suatu kegiatan, seperti “Cara Mencuci Tangan dengan Benar”, dapat langsung menuju langkah-langkah karena tidak membutuhkan daftar bahan dan alat yang khusus. Oleh sebab itu, keberadaan bagian bahan dan alat bergantung pada jenis prosedur yang dijelaskan.
+
+
+3. Langkah-Langkah
+
+Langkah-langkah merupakan bagian terpenting dalam teks prosedur karena berisi tahapan atau tindakan yang harus dilakukan untuk mencapai tujuan. Bagian ini menjelaskan proses dari awal hingga akhir secara runtut, logis, dan sistematis. Pembaca menggunakan bagian ini sebagai petunjuk utama ketika melakukan suatu kegiatan.
+
+Setiap langkah harus disusun berdasarkan urutan waktu atau urutan proses. Artinya, kegiatan yang harus dilakukan terlebih dahulu ditempatkan pada bagian awal, kemudian dilanjutkan dengan kegiatan berikutnya sampai tujuan tercapai. Urutan tersebut tidak boleh dibuat secara sembarangan karena perubahan urutan dapat menyebabkan proses tidak berjalan dengan baik atau menghasilkan sesuatu yang berbeda dari yang diharapkan.
+
+Misalnya, dalam prosedur membuat jus mangga, mangga harus dikupas dan dipotong terlebih dahulu sebelum dimasukkan ke dalam blender. Setelah itu, air dan gula dapat ditambahkan, kemudian semua bahan diblender sampai halus. Jika langkah-langkah tersebut ditulis secara tidak berurutan, pembaca akan kesulitan mengikuti prosesnya.
+
+Langkah-langkah juga harus memberikan informasi yang jelas dan tidak menimbulkan makna ganda. Pembaca harus dapat mengetahui tindakan apa yang harus dilakukan, bagaimana melakukannya, dan jika diperlukan, berapa lama atau seberapa banyak tindakan tersebut dilakukan. Karena itu, bagian langkah-langkah sering menggunakan kata kerja yang menunjukkan tindakan, seperti potong, masukkan, aduk, campurkan, tuangkan, panaskan, tunggu, dan angkat.
+
+
+4. Penutup
+
+Penutup merupakan bagian yang terdapat pada akhir teks prosedur dan berfungsi memberikan keterangan mengenai hasil akhir setelah seluruh tahapan dilakukan. Penutup dapat berupa pernyataan hasil, kesimpulan, manfaat, atau kalimat yang memberikan penegasan kepada pembaca bahwa prosedur telah selesai dilakukan.
+
+Penutup biasanya tidak sepanjang bagian langkah-langkah. Isinya cukup menjelaskan keadaan setelah proses selesai. Misalnya, dalam prosedur membuat jus mangga, penutup dapat berupa pernyataan bahwa jus mangga telah siap disajikan. Dalam prosedur membuat kerajinan, penutup dapat menjelaskan bahwa kerajinan telah selesai dan siap digunakan.
+
+Bagian penutup tidak selalu harus ada dalam setiap teks prosedur. Ada teks yang langsung berakhir setelah langkah terakhir karena hasil kegiatan sudah dapat dipahami. Meskipun demikian, penutup dapat membuat teks terasa lebih lengkap karena memberikan gambaran mengenai hasil yang diperoleh setelah pembaca mengikuti seluruh prosedur.
+

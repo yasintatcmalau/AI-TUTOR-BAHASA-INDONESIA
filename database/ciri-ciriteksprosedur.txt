@@ -1,0 +1,13 @@
+Ciri-Ciri Teks Prosedur
+
+Teks prosedur memiliki ciri-ciri yang dapat digunakan untuk mengenalinya dan membedakannya dari jenis teks lainnya.
+1. Memuat Langkah-Langkah Kegiatan
+Teks prosedur berisi tahapan kegiatan yang perlu dilakukan oleh pembaca. Tahapan tersebut menunjukkan proses yang harus dilakukan dari awal sampai akhir untuk mencapai tujuan yang telah ditentukan.
+2. Mengarahkan Pembaca untuk Melakukan Suatu Tindakan
+Isi teks prosedur berfokus pada kegiatan yang harus dilakukan oleh pembaca. Teks tidak hanya memberikan informasi, tetapi juga memberikan arahan mengenai tindakan yang perlu dilakukan agar suatu kegiatan dapat terlaksana.
+3. Menggunakan Bahasa yang Jelas dan Mudah Diikuti
+Informasi dalam teks prosedur disampaikan dengan bahasa yang mudah dipahami. Penyampaian yang jelas membantu pembaca memahami petunjuk yang diberikan sehingga dapat mengikuti setiap tahapan dengan tepat.
+4. Memuat Informasi yang Diperlukan
+Teks prosedur menyediakan informasi yang diperlukan untuk melakukan suatu kegiatan. Informasi yang diberikan disesuaikan dengan jenis kegiatan yang dijelaskan sehingga pembaca memiliki petunjuk yang cukup untuk melaksanakan prosedur tersebut.
+5. Langkah-Langkah Disusun Sesuai Urutan Proses
+Tahapan dalam teks prosedur disusun berdasarkan urutan kegiatan. Urutan tersebut menunjukkan tindakan yang dilakukan terlebih dahulu, kemudian dilanjutkan dengan tindakan berikutnya sampai kegiatan selesai.

@@ -1,0 +1,12 @@
+Apa saja jenis-jenis Teks Prosedur?
+
+Berdasarkan jumlah langkah, tingkat kerumitan, dan urutan pelaksanaannya, teks prosedur dapat dibedakan menjadi tiga jenis.
+1. Teks Prosedur Sederhana
+Teks prosedur sederhana merupakan teks yang memiliki sedikit langkah dan digunakan untuk kegiatan yang mudah dilakukan. Tahapannya tidak banyak sehingga pembaca dapat mengikuti prosedur dalam waktu yang relatif singkat.
+Contohnya adalah cara menyalakan lampu, cara mengisi daya ponsel, atau cara menyeduh teh.
+2. Teks Prosedur Kompleks
+Teks prosedur kompleks merupakan teks yang memiliki banyak tahapan dan saling berkaitan. Setiap tahap perlu dilakukan dengan cermat karena kesalahan pada satu tahapan dapat memengaruhi tahapan berikutnya.
+Contohnya adalah prosedur pembuatan paspor, pendaftaran peserta didik baru, dan pembuatan SIM.
+3. Teks Prosedur Protokol
+Teks prosedur protokol merupakan teks yang langkah-langkahnya tidak selalu harus dilakukan dalam urutan yang tetap. Beberapa tahapan dapat dilakukan dengan urutan yang berbeda selama tujuan kegiatan tetap dapat tercapai.
+Contohnya adalah prosedur menyiapkan perlengkapan sekolah atau menyiapkan bahan sebelum memasak.

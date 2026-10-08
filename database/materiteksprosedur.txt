@@ -1,0 +1,178 @@
+TEKS PROSEDUR
+Pengertian Teks Prosedur
+Teks prosedur adalah teks yang berisi petunjuk atau langkah-langkah yang disusun secara berurutan untuk membuat, melakukan, atau menggunakan sesuatu agar tujuan tertentu dapat tercapai. Teks ini membantu pembaca mengetahui tahapan yang harus dilakukan dari awal hingga akhir.
+Istilah prosedur berkaitan dengan tahapan yang perlu dilakukan secara berurutan. Oleh karena itu, teks prosedur juga dapat ditemukan dalam bentuk teks petunjuk, instruksi, tutorial, atau panduan.
+Dalam kehidupan sehari-hari, teks prosedur dapat ditemukan dalam berbagai kegiatan, seperti resep makanan, petunjuk penggunaan alat elektronik, petunjuk permainan, aturan sekolah, hingga petunjuk evakuasi. Setiap teks tersebut memberikan petunjuk mengenai cara melakukan suatu kegiatan sesuai dengan tujuan yang ingin dicapai.
+
+
+
+Tujuan dan Fungsi Teks Prosedur
+Tujuan utama teks prosedur adalah memberikan petunjuk yang jelas agar seseorang dapat melakukan, membuat, atau menggunakan sesuatu dengan tepat sehingga memperoleh hasil yang diinginkan.
+Secara khusus, teks prosedur memiliki beberapa tujuan dan fungsi berikut.
+1. Membimbing Pembaca secara Sistematis
+Teks prosedur membantu pembaca melakukan suatu kegiatan secara terarah. Pembaca dapat mengetahui tahapan yang harus dilakukan mulai dari kegiatan awal hingga kegiatan selesai. Dengan demikian, pembaca tidak perlu melakukan kegiatan secara coba-coba.
+2. Meminimalkan Kesalahan dan Kegagalan
+Petunjuk yang terdapat dalam teks prosedur membantu pembaca menghindari kesalahan selama melakukan suatu kegiatan. Setiap tahapan memberikan arahan mengenai tindakan yang perlu dilakukan sehingga kemungkinan terjadinya kesalahan atau kegagalan dapat dikurangi.
+3. Meningkatkan Efisiensi Waktu, Tenaga, dan Bahan
+Teks prosedur membuat kegiatan dapat dilakukan secara lebih terarah. Pembaca dapat mengetahui tahapan yang diperlukan dan menggunakan waktu, tenaga, serta bahan sesuai dengan kebutuhan. Dengan demikian, proses dapat dilakukan secara lebih efisien.
+4. Menjamin Keselamatan dan Keamanan
+Pada prosedur tertentu, petunjuk diperlukan untuk menjaga keselamatan dan keamanan selama kegiatan berlangsung. Hal ini terutama berlaku pada prosedur yang menggunakan alat, bahan, atau kegiatan yang memiliki risiko tertentu. Petunjuk yang jelas membantu pembaca melakukan kegiatan dengan lebih aman.
+
+
+
+Ciri-Ciri Teks Prosedur
+Teks prosedur memiliki ciri-ciri yang dapat digunakan untuk mengenalinya dan membedakannya dari jenis teks lainnya.
+1. Memuat Langkah-Langkah Kegiatan
+Teks prosedur berisi tahapan kegiatan yang perlu dilakukan oleh pembaca. Tahapan tersebut menunjukkan proses yang harus dilakukan dari awal sampai akhir untuk mencapai tujuan yang telah ditentukan.
+2. Mengarahkan Pembaca untuk Melakukan Suatu Tindakan
+Isi teks prosedur berfokus pada kegiatan yang harus dilakukan oleh pembaca. Teks tidak hanya memberikan informasi, tetapi juga memberikan arahan mengenai tindakan yang perlu dilakukan agar suatu kegiatan dapat terlaksana.
+3. Menggunakan Bahasa yang Jelas dan Mudah Diikuti
+Informasi dalam teks prosedur disampaikan dengan bahasa yang mudah dipahami. Penyampaian yang jelas membantu pembaca memahami petunjuk yang diberikan sehingga dapat mengikuti setiap tahapan dengan tepat.
+4. Memuat Informasi yang Diperlukan
+Teks prosedur menyediakan informasi yang diperlukan untuk melakukan suatu kegiatan. Informasi yang diberikan disesuaikan dengan jenis kegiatan yang dijelaskan sehingga pembaca memiliki petunjuk yang cukup untuk melaksanakan prosedur tersebut.
+5. Langkah-Langkah Disusun Sesuai Urutan Proses
+Tahapan dalam teks prosedur disusun berdasarkan urutan kegiatan. Urutan tersebut menunjukkan tindakan yang dilakukan terlebih dahulu, kemudian dilanjutkan dengan tindakan berikutnya sampai kegiatan selesai.
+
+
+
+Jenis-Jenis Teks Prosedur
+Berdasarkan jumlah langkah, tingkat kerumitan, dan urutan pelaksanaannya, teks prosedur dapat dibedakan menjadi tiga jenis.
+1. Teks Prosedur Sederhana
+Teks prosedur sederhana merupakan teks yang memiliki sedikit langkah dan digunakan untuk kegiatan yang mudah dilakukan. Tahapannya tidak banyak sehingga pembaca dapat mengikuti prosedur dalam waktu yang relatif singkat.
+Contohnya adalah cara menyalakan lampu, cara mengisi daya ponsel, atau cara menyeduh teh.
+2. Teks Prosedur Kompleks
+Teks prosedur kompleks merupakan teks yang memiliki banyak tahapan dan saling berkaitan. Setiap tahap perlu dilakukan dengan cermat karena kesalahan pada satu tahapan dapat memengaruhi tahapan berikutnya.
+Contohnya adalah prosedur pembuatan paspor, pendaftaran peserta didik baru, dan pembuatan SIM.
+3. Teks Prosedur Protokol
+Teks prosedur protokol merupakan teks yang langkah-langkahnya tidak selalu harus dilakukan dalam urutan yang tetap. Beberapa tahapan dapat dilakukan dengan urutan yang berbeda selama tujuan kegiatan tetap dapat tercapai.
+Contohnya adalah prosedur menyiapkan perlengkapan sekolah atau menyiapkan bahan sebelum memasak.
+
+
+
+Struktur Teks Prosedur
+Struktur teks prosedur merupakan bagian-bagian yang membangun teks prosedur sehingga informasi di dalamnya tersusun secara teratur. Struktur tersebut terdiri atas tujuan, bahan dan alat, langkah-langkah, serta penutup.
+1. Tujuan
+Bagian tujuan berisi informasi mengenai kegiatan yang akan dilakukan atau hasil yang ingin dicapai. Bagian ini memberikan gambaran kepada pembaca mengenai hal yang akan dilakukan melalui prosedur tersebut.
+Contoh:
+Cara Membuat Jus Mangga
+Judul tersebut menunjukkan bahwa teks akan menjelaskan tahapan untuk membuat jus mangga.
+2. Bahan dan Alat
+Bagian bahan dan alat berisi hal-hal yang diperlukan sebelum melakukan suatu kegiatan. Bahan merupakan sesuatu yang digunakan dalam proses dan dapat menjadi bagian dari hasil, sedangkan alat digunakan untuk membantu pelaksanaan kegiatan.
+Misalnya, dalam prosedur membuat jus mangga, bahan yang digunakan dapat berupa mangga, air, dan gula. Alat yang digunakan dapat berupa blender, pisau, dan gelas.
+Bagian bahan dan alat tidak selalu terdapat dalam semua teks prosedur. Bagian ini terutama digunakan pada prosedur yang membutuhkan bahan atau alat tertentu.
+3. Langkah-Langkah
+Bagian langkah-langkah merupakan bagian utama dalam teks prosedur karena berisi tahapan kegiatan yang harus dilakukan. Setiap langkah disusun berdasarkan proses yang perlu dilakukan agar tujuan dapat tercapai.
+Langkah-langkah harus disusun secara teratur sehingga pembaca dapat mengetahui tindakan yang dilakukan terlebih dahulu dan tindakan yang dilakukan setelahnya.
+4. Penutup
+Penutup merupakan bagian akhir teks prosedur. Bagian ini dapat berisi informasi mengenai hasil yang diperoleh setelah seluruh tahapan dilakukan atau keadaan akhir dari kegiatan tersebut.
+Contoh:
+Setelah semua langkah dilakukan, jus mangga siap disajikan.
+
+
+
+Unsur Kebahasaan Teks Prosedur
+Unsur kebahasaan merupakan penggunaan bentuk bahasa tertentu yang digunakan untuk menyampaikan petunjuk dalam teks prosedur. Unsur kebahasaan yang terdapat dalam teks prosedur meliputi kalimat perintah dan ajakan, kalimat larangan, kata kerja aktif, kata keterangan, konjungsi urutan, kalimat inversi, dan pelesapan kata.
+1. Kalimat Perintah dan Ajakan
+Kalimat perintah digunakan untuk memberikan arahan kepada pembaca agar melakukan suatu tindakan. Kalimat ini banyak digunakan dalam teks prosedur karena pembaca perlu mengetahui tindakan yang harus dilakukan pada setiap tahapan.
+Contoh:
+Potong wortel menjadi beberapa bagian.
+Selain kalimat perintah, teks prosedur dapat menggunakan kalimat ajakan untuk mengajak pembaca melakukan suatu kegiatan.
+Contoh:
+Mari kita siapkan alat dan bahan terlebih dahulu.
+2. Kalimat Larangan
+Kalimat larangan digunakan untuk memberitahukan tindakan yang tidak boleh dilakukan oleh pembaca. Penggunaan kalimat larangan diperlukan ketika suatu tindakan dapat mengganggu proses atau menimbulkan kesalahan dan risiko.
+Contoh:
+Jangan menyentuh permukaan yang panas dengan tangan kosong.
+3. Kata Kerja Aktif
+Kata kerja aktif merupakan kata kerja yang menunjukkan tindakan yang dilakukan oleh seseorang atau pelaku. Penggunaan kata kerja aktif membuat tindakan dalam teks prosedur menjadi lebih jelas.
+Contohnya adalah potong, campurkan, masukkan, aduk, rebus, dan gunakan. Kata-kata tersebut menunjukkan tindakan yang perlu dilakukan dalam suatu prosedur.
+4. Kata Keterangan atau Adverbia
+Kata keterangan digunakan untuk memberikan informasi tambahan mengenai tindakan yang dilakukan. Dalam teks prosedur, keterangan dapat membantu pembaca mengetahui cara, alat, tujuan, waktu, atau ukuran suatu tindakan.
+a. Keterangan cara menjelaskan bagaimana suatu tindakan dilakukan.
+Contohnya: Aduk secara perlahan-lahan.
+b. Keterangan alat menjelaskan alat yang digunakan untuk melakukan tindakan.
+Contohnya: Iris menggunakan pisau.
+c. Keterangan tujuan menjelaskan tujuan dari suatu tindakan.
+Contohnya: Tambahkan garam agar rasanya lebih gurih.
+d. Keterangan waktu atau ukuran menjelaskan waktu, jumlah, ukuran, atau takaran yang diperlukan.
+Contohnya: Rebus selama lima menit.
+5. Konjungsi atau Kata Hubung Urutan
+Konjungsi urutan digunakan untuk menunjukkan hubungan antara satu tahapan dengan tahapan lainnya. Penggunaan kata hubung ini membantu pembaca memahami urutan kegiatan dalam teks.
+Kata yang dapat digunakan antara lain kemudian, setelah itu, selanjutnya, berikutnya, lalu, dan terakhir.
+Contoh:
+Masukkan sayuran ke dalam mangkuk. Setelah itu, tambahkan saus dan aduk hingga rata.
+6. Kalimat Inversi
+Kalimat inversi adalah kalimat yang memiliki susunan predikat mendahului subjek. Dalam teks prosedur, bentuk ini dapat digunakan untuk memberikan arahan secara langsung kepada pembaca.
+Contoh kalimat biasa:
+Kamu memegang pinggiran kursi.
+Contoh kalimat inversi:
+Peganglah pinggiran kursi!
+Bentuk tersebut membuat tindakan yang harus dilakukan menjadi lebih langsung.
+7. Pelesapan Kata
+Pelesapan kata adalah penghilangan kata atau bagian tertentu dalam kalimat karena informasi tersebut sudah dapat dipahami berdasarkan konteks. Penggunaan pelesapan membuat kalimat menjadi lebih ringkas tanpa menghilangkan maksudnya.
+Contoh:
+Cuci buah hingga bersih, lalu potong [buah] menjadi beberapa bagian.
+Kata buah pada bagian kedua dapat dilesapkan karena sudah disebutkan pada bagian sebelumnya.
+
+
+
+Bentuk Sajian Teks Prosedur
+Teks prosedur dapat disajikan dalam berbagai bentuk sesuai dengan media yang digunakan untuk menyampaikan prosedur tersebut.
+1. Teks Tulis atau Narasi
+Bentuk tulis menyampaikan prosedur melalui kata-kata dalam bentuk tulisan. Prosedur dapat disusun dalam bentuk daftar langkah, kalimat, atau paragraf.
+Contohnya adalah resep dalam buku, petunjuk penggunaan alat, dan panduan tertulis.
+2. Visual atau Infografik
+Bentuk visual menyampaikan prosedur melalui perpaduan antara tulisan, gambar, ilustrasi, simbol, warna, dan tata letak. Informasi biasanya dibuat secara ringkas agar pembaca dapat memahami tahapan melalui tampilan visual.
+Contohnya adalah poster cara mencuci tangan atau infografik cara memilah sampah.
+3. Audio-Visual atau Lisan
+Bentuk audio-visual menyampaikan prosedur melalui suara dan gambar bergerak. Bentuk ini memungkinkan pembaca atau penonton melihat sekaligus mendengar penjelasan mengenai proses yang dilakukan.
+Contohnya adalah video tutorial memasak, video penggunaan alat, atau video demonstrasi suatu kegiatan.
+4. Prosedur dalam Fiksi
+Prosedur juga dapat muncul dalam karya fiksi. Dalam bentuk ini, langkah atau petunjuk melakukan suatu kegiatan menjadi bagian dari cerita, misalnya melalui dialog atau narasi tokoh.
+Contohnya adalah tokoh dalam cerita yang menjelaskan kepada tokoh lain cara membuat suatu makanan atau menggunakan suatu benda.
+
+
+
+Contoh Teks Prosedur
+Cara Membuat Salad Sayur
+Bahan
+- 1 buah wortel
+- 1 buah tomat
+- 1 buah mentimun
+- 5 lembar selada
+- 1 butir telur rebus
+- 4 sendok makan yogurt
+- 1 sendok makan madu
+- 1 sendok teh air jeruk lemon
+- Garam dan lada secukupnya
+Alat
+- Pisau
+- Talenan
+- Mangkuk
+- Sendok
+Langkah-Langkah
+1. Cuci semua sayuran dengan air mengalir hingga bersih.
+2. Kupas wortel dan mentimun, kemudian potong tipis-tipis.
+3. Potong tomat menjadi beberapa bagian, lalu sobek selada menjadi potongan kecil.
+4. Kupas telur rebus, kemudian potong menjadi empat bagian.
+5. Masukkan yogurt, madu, air jeruk lemon, garam, dan lada ke dalam mangkuk.
+6. Aduk semua bahan saus hingga tercampur rata.
+7. Susun selada, wortel, mentimun, dan tomat di dalam mangkuk.
+8. Tuangkan saus yogurt di atas sayuran, lalu aduk perlahan.
+9. Letakkan potongan telur rebus di bagian atas salad.
+Setelah semua langkah dilakukan, salad sayur siap disajikan.
+
+
+
+Cara Menyusun Teks Prosedur yang Baik dan Menarik
+Dalam membuat teks prosedur, penulis perlu memperhatikan beberapa hal agar prosedur dapat dipahami dan diikuti oleh pembaca.
+1. Menyusun Langkah secara Runtut dan Logis
+Langkah-langkah harus disusun berdasarkan urutan kegiatan yang benar. Tahapan yang dilakukan terlebih dahulu harus ditempatkan sebelum tahapan berikutnya. Urutan yang tepat membuat pembaca lebih mudah mengikuti proses sampai selesai.
+2. Menggunakan Bahasa yang Singkat, Padat, dan Lugas
+Bahasa dalam teks prosedur sebaiknya langsung menyampaikan informasi yang diperlukan. Kalimat yang terlalu panjang atau berbelit-belit dapat membuat pembaca kesulitan memahami petunjuk. Oleh karena itu, informasi disampaikan secara sederhana dan jelas.
+3. Memberikan Keterangan yang Akurat
+Informasi seperti jumlah bahan, ukuran, waktu, atau takaran harus dituliskan secara tepat. Keterangan yang akurat membantu pembaca melakukan prosedur sesuai dengan kebutuhan dan mengurangi kemungkinan kesalahan.
+4. Menggunakan Visual yang Menarik
+Jika teks prosedur disajikan dalam bentuk visual atau infografik, gambar, ilustrasi, simbol, dan tata letak dapat digunakan untuk membantu pembaca memahami informasi. Visual juga dapat membuat penyajian prosedur lebih menarik.
+5. Menggunakan Penyampaian yang Ramah dan Interaktif
+Pada prosedur yang disampaikan secara lisan atau melalui video, bahasa dapat dibuat lebih komunikatif agar pembaca atau penonton merasa mudah mengikuti penjelasan. Penyampaian yang ramah juga dapat membuat informasi lebih menarik dan tidak terasa kaku.

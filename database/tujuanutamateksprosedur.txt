@@ -1,0 +1,12 @@
+Tujuan dan Fungsi Teks Prosedur
+Tujuan utama teks prosedur adalah memberikan petunjuk yang jelas agar seseorang dapat melakukan, membuat, atau menggunakan sesuatu dengan tepat sehingga memperoleh hasil yang diinginkan.
+
+Secara khusus, teks prosedur memiliki beberapa tujuan dan fungsi berikut.
+1. Membimbing Pembaca secara Sistematis
+Teks prosedur membantu pembaca melakukan suatu kegiatan secara terarah. Pembaca dapat mengetahui tahapan yang harus dilakukan mulai dari kegiatan awal hingga kegiatan selesai. Dengan demikian, pembaca tidak perlu melakukan kegiatan secara coba-coba.
+2. Meminimalkan Kesalahan dan Kegagalan
+Petunjuk yang terdapat dalam teks prosedur membantu pembaca menghindari kesalahan selama melakukan suatu kegiatan. Setiap tahapan memberikan arahan mengenai tindakan yang perlu dilakukan sehingga kemungkinan terjadinya kesalahan atau kegagalan dapat dikurangi.
+3. Meningkatkan Efisiensi Waktu, Tenaga, dan Bahan
+Teks prosedur membuat kegiatan dapat dilakukan secara lebih terarah. Pembaca dapat mengetahui tahapan yang diperlukan dan menggunakan waktu, tenaga, serta bahan sesuai dengan kebutuhan. Dengan demikian, proses dapat dilakukan secara lebih efisien.
+4. Menjamin Keselamatan dan Keamanan
+Pada prosedur tertentu, petunjuk diperlukan untuk menjaga keselamatan dan keamanan selama kegiatan berlangsung. Hal ini terutama berlaku pada prosedur yang menggunakan alat, bahan, atau kegiatan yang memiliki risiko tertentu. Petunjuk yang jelas membantu pembaca melakukan kegiatan dengan lebih aman.
