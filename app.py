@@ -1475,13 +1475,18 @@ database = baca_database()
 # =========================================================
 
 if st.session_state.menu != "AI Tutor":
-    col_logo, col1, col2, col3, col4, col5, col6 = st.columns(
-        [0.50, 0.95, 1.65, 1.25, 1.55, 1.55, 1.20]
+    col_logo, col5, col1, col2, col3, col4, col6 = st.columns(
+        [0.50, 1.55, 0.95, 1.65, 1.25, 1.55, 1.20]
     )
 
     with col_logo:
         st.markdown("## 📚")
 
+    with col5:
+        if st.button("Panduan Penggunaan", key="nav_panduan", use_container_width=True):
+            pilih_menu("Panduan Penggunaan")
+            st.rerun()
+    
     with col1:
         if st.button("Beranda", key="nav_beranda", use_container_width=True):
             pilih_menu("Beranda")
@@ -1500,11 +1505,6 @@ if st.session_state.menu != "AI Tutor":
     with col4:
         if st.button("Pengumpulan Tugas", key="nav_tugas", use_container_width=True):
             pilih_menu("Pengumpulan Tugas")
-            st.rerun()
-
-    with col5:
-        if st.button("Panduan Penggunaan", key="nav_panduan", use_container_width=True):
-            pilih_menu("Panduan Penggunaan")
             st.rerun()
 
     with col6:
@@ -1683,7 +1683,7 @@ elif st.session_state.menu == "Panduan Penggunaan":
     langkah_panduan = [
         ("1️⃣", "Membuka Beranda", "Gunakan halaman Beranda untuk melihat fitur utama website dan AI Tutor."),
         ("2️⃣", "Menggunakan AI Tutor", "Ketik pertanyaan Bahasa Indonesia pada kotak pertanyaan di Beranda, lalu tekan tombol TANYAKAN."),
-        ("3️⃣", "Menulis Pertanyaan", "Gunakan pertanyaan yang jelas dan spesifik, misalnya: “Apa yang dimaksud dengan teks prosedur?” atau “Apa ciri-ciri teks prosedur?”"),
+        ("3️⃣", "Menulis Pertanyaan", "Gunakan pertanyaan yang jelas dan spesifik, misalnya: “Apa ciri-ciri teks prosedur?” atau “Apa struktur teks prosedur?”"),
         ("4️⃣", "Membaca Jawaban", "AI Tutor akan mengambil jawaban dari materi yang tersedia di database. Jika materi yang sesuai tidak ditemukan, website tidak akan menampilkan jawaban yang tidak didukung database."),
         ("5️⃣", "Video Pembelajaran", "Buka menu Video Pembelajaran untuk melihat video yang telah disediakan sebagai media belajar tambahan."),
         ("6️⃣", "Kuis / Latihan", "Buka menu Kuis / Latihan untuk mengerjakan kuis dan latihan soal Bahasa Indonesia."),
@@ -1779,15 +1779,16 @@ elif st.session_state.menu == "Tentang Kami":
     st.write("")
     st.markdown("# 👥 Tentang Kami")
     st.write("Tim Pengembang AI Tutor Bahasa Indonesia")
+    st.write ("Kelompok 1")
     st.write("")
 
     anggota = [
-        ("👩‍💻", "Claudia Ratna"),
-        ("👩‍💻", "Ezra Natasya"),
+        ("👩‍💻", "Claudia Ratna Ningsih"),
+        ("👩‍💻", "Ezra Natasya Hutabarat"),
         ("👨‍💻", "Kevin Pardede"),
         ("👨‍💻", "Samuel Simamora"),
-        ("👩‍💻", "Siti Fadilah"),
-        ("👩‍💻", "Yasinta Theresya"),
+        ("👩‍💻", "Siti Fadilah Aini Siregar"),
+        ("👩‍💻", "Yasinta Theresya Claudia Malau"),
     ]
 
     for awal in range(0, len(anggota), 3):
